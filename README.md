@@ -1,34 +1,34 @@
 # NeuralNetworkApplication-MNISTDataset
-learningRate = 0.01f
-maxEpoch = 100
-hiddenNodeCount = 30
-trainSize = 2000
-testSize = 1000
-outputNodeCount = 10(toplamda 10 adet rakam var)
+learningRate = 0.01f <br />
+maxEpoch = 100 <br />
+hiddenNodeCount = 30 <br />
+trainSize = 2000 <br />
+testSize = 1000 <br />
+outputNodeCount = 10(toplamda 10 adet rakam var)<br />
 
 Program Çıktısı:
-mnist-train -> 0. sınıftaki veriler okundu
-mnist-train -> 1. sınıftaki veriler okundu
-mnist-train -> 2. sınıftaki veriler okundu
-mnist-train -> 3. sınıftaki veriler okundu
-mnist-train -> 4. sınıftaki veriler okundu
-mnist-train -> 5. sınıftaki veriler okundu
-mnist-train -> 6. sınıftaki veriler okundu
-mnist-train -> 7. sınıftaki veriler okundu
-mnist-train -> 8. sınıftaki veriler okundu
-mnist-train -> 9. sınıftaki veriler okundu
-Toplamda 2000 adet veri okundu
-mnist-test -> 0. sınıftaki veriler okundu
-mnist-test -> 1. sınıftaki veriler okundu
-mnist-test -> 2. sınıftaki veriler okundu
-mnist-test -> 3. sınıftaki veriler okundu
-mnist-test -> 4. sınıftaki veriler okundu
-mnist-test -> 5. sınıftaki veriler okundu
-mnist-test -> 6. sınıftaki veriler okundu
-mnist-test -> 7. sınıftaki veriler okundu
-mnist-test -> 8. sınıftaki veriler okundu
-mnist-test -> 9. sınıftaki veriler okundu
-Toplamda 1000 adet veri okundu
+mnist-train -> 0. sınıftaki veriler okundu\
+mnist-train -> 1. sınıftaki veriler okundu\
+mnist-train -> 2. sınıftaki veriler okundu\
+mnist-train -> 3. sınıftaki veriler okundu\
+mnist-train -> 4. sınıftaki veriler okundu\
+mnist-train -> 5. sınıftaki veriler okundu\
+mnist-train -> 6. sınıftaki veriler okundu\
+mnist-train -> 7. sınıftaki veriler okundu\
+mnist-train -> 8. sınıftaki veriler okundu\
+mnist-train -> 9. sınıftaki veriler okundu\
+Toplamda 2000 adet veri okundu\
+mnist-test -> 0. sınıftaki veriler okundu\
+mnist-test -> 1. sınıftaki veriler okundu\
+mnist-test -> 2. sınıftaki veriler okundu\
+mnist-test -> 3. sınıftaki veriler okundu\
+mnist-test -> 4. sınıftaki veriler okundu\
+mnist-test -> 5. sınıftaki veriler okundu\
+mnist-test -> 6. sınıftaki veriler okundu\
+mnist-test -> 7. sınıftaki veriler okundu\
+mnist-test -> 8. sınıftaki veriler okundu\
+mnist-test -> 9. sınıftaki veriler okundu\
+Toplamda 1000 adet veri okundu\
 0. epoch Train Genel Accuracy: 0.1
 1. epoch Train Genel Accuracy: 0.1
 2. epoch Train Genel Accuracy: 0.1

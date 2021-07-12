@@ -1,4 +1,6 @@
-# NeuralNetworkApplication-MNISTDataset
+# NeuralNetworkApplication-MNISTDataset\
+MNIST veri setinden alınmış, 10 farklı rakamın el yazısıyla yazılmış .png formatında resimler bulunmaktadır. Eğitim(train) ve test verileri iki ayrı dizinde (mnist-train ve mnist-test adlı dizinler) olup, bunların her birisinin altında 10 rakama ait dizinler bulunmaktadır. Her bir rakam için 200 adet eğitim verisi ve 100 adet test verisi bulunmaktadır.
+***
 learningRate = 0.01f <br />
 maxEpoch = 100 <br />
 hiddenNodeCount = 30 <br />
